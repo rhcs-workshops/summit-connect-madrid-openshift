@@ -1,5 +1,7 @@
 name: template-openshift
 title: Summit Connect Madrid - OpenShift
 version: master
+nav:
+  - modules/ROOT/nav.adoc
 
 start_page: ROOT:index.adoc
