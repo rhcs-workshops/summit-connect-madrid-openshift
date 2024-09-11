@@ -11,7 +11,7 @@ content:
     # - url: ./
     #   start_path: documentation
     #Change to make url parameters work EX: USER
-    - url: git@github.com:rhcs-workshops/redhat-workshop-developer-hub-init.git
+    - url: git@github.com:rhcs-workshops/summit-connect-madrid-openshift.git
       tags: []
       branches: [master]
       start_path: documentation
