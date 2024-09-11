@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-tutorial/01-golden-path.html</loc>
-<lastmod>2024-09-11T07:50:38.899Z</lastmod>
+<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-openshift/01-setup.html</loc>
+<lastmod>2024-09-11T07:54:56.497Z</lastmod>
 </url>
 <url>
-<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-tutorial/02-crear-aplicacion.html</loc>
-<lastmod>2024-09-11T07:50:38.899Z</lastmod>
+<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-openshift/02-deploy.html</loc>
+<lastmod>2024-09-11T07:54:56.497Z</lastmod>
 </url>
 <url>
-<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-tutorial/03-ci.html</loc>
-<lastmod>2024-09-11T07:50:38.899Z</lastmod>
-</url>
-<url>
-<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-tutorial/04-verificar-ci.html</loc>
-<lastmod>2024-09-11T07:50:38.899Z</lastmod>
-</url>
-<url>
-<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-tutorial/05-dev-aplicacion.html</loc>
-<lastmod>2024-09-11T07:50:38.899Z</lastmod>
-</url>
-<url>
-<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-tutorial/index.html</loc>
-<lastmod>2024-09-11T07:50:38.899Z</lastmod>
+<loc>https://github.com/rhcs-workshops/summit-connect-madrid-openshift/template-openshift/index.html</loc>
+<lastmod>2024-09-11T07:54:56.497Z</lastmod>
 </url>
 </urlset>
